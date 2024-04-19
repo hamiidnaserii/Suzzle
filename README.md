@@ -1,6 +1,11 @@
 # Suzzle
 
-This template should help get you started developing with Vue 3 in Vite.
+![Screenshot 2024-04-19 at 14 10 39](https://github.com/hamiidnaserii/Suzzle/assets/63211880/d1625fa5-5d89-4965-81ae-71a0ff6548bf)
+Fun game, match the puzzle numbers with row and column totals
+
+# Demo
+link : https://suzzle.netlify.app/
+
 
 ## Recommended IDE Setup
 
